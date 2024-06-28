@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marcosbotene
-- 👀 I’m interested in React, React Native, TypeScript, JavaScript, Next.js, Node.js and Prisma
+- 👀 I’m interested in React, React Native, TypeScript, JavaScript, Next.js, Node.js, Prisma and PostgreSQL
 - 🌱 I’m currently learning SOLID, DDD, TDD and design patterns
